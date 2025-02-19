@@ -4,4 +4,5 @@ tensorflow==2.18.0
 streamlit
 torch==2.2.0
 torchvision
-numpy
+numpy==1.26.4
+
